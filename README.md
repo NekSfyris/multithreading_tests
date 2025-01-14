@@ -2,12 +2,10 @@
 This repository contains a multi-threaded implementation of utilizing ORB-SLAM's localization in ROS.
 
 ### System Results
-<p align="center">
-  <img src="https://github.com/NekSfyris/orbslam_multithreading/blob/ORBSLAM_multithreading/results/ORBSLAM_relocalization.png" alt="Image 1" width="300"/>
-  <img src="https://github.com/NekSfyris/orbslam_multithreading/blob/ORBSLAM_multithreading/results/feature_tracking.png" alt="Image 2" width="300"/>
-</p>
 
-![alt text](https://github.com/NekSfyris/weeding_bot/blob/main/results/1.gif)
+  <img src="https://github.com/NekSfyris/orbslam_multithreading/blob/ORBSLAM_multithreading/results/feature_tracking.png" alt="Image 1"  title="Feature-Tracking which triggers ORB-SLAM's relocalization" width="300"/>
+  <img src="https://github.com/NekSfyris/orbslam_multithreading/blob/ORBSLAM_multithreading/results/ORBSLAM_relocalization.png" alt="Image 2"  title="Relocalization happening from ORB-SLAM" width="500"/>
+
 
 
 ### Prerequisites
