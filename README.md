@@ -2,7 +2,6 @@
 This repository contains a multi-threaded implementation of utilizing ORB-SLAM's localization in ROS.
 
 ### System Results
-
 <p align="center">
   <img src="https://github.com/NekSfyris/orbslam_multithreading/blob/ORBSLAM_multithreading/results/feature_tracking.png" alt="Image 1"  title="Feature-Tracking which triggers ORB-SLAM's relocalization" width="600"/><br/>
   <b>Feature-Tracking which triggers (through BoW checks) ORB-SLAM's relocalization</b>
@@ -20,5 +19,3 @@ This implementation has been tested with:
 * Ubuntu 16.04 LTS
 * ROS Kinetic
 
-
-The "orbslam2_relocalization_control.cpp" is the one that works.
