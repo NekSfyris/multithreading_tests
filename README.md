@@ -1,5 +1,5 @@
-# multithreading_tests
-This repository contains a multi-threaded implementation of utilizing ORB-SLAM's localization in ROS.
+# orbslam_multithreading
+This repository contains a multi-threaded implementation of ORB-SLAM's localization in ROS.
 
 ### System Results
 <p align="center">
